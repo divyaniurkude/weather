@@ -13,20 +13,20 @@ LinkedIn-https://www.linkedin.com/in/divyani-urkude/
 
 # Output - 1
 
-![Screenshot (1)](https://github.com/divyaniurkude/COVID-19-WEBSITE/blob/main/Screenshot%20(419).png)
+![Screenshot (1)](https://github.com/divyaniurkude/weather/blob/main/Screenshot%20(1).png)
 
 # Output - 2
 
-![Screenshot (2)](https://github.com/divyaniurkude/COVID-19-WEBSITE/blob/main/Screenshot%20(420).png)
+![Screenshot (2)](https://github.com/divyaniurkude/weather/blob/main/Screenshot%20(2).png)
 
 # Output - 3
 
-![Screenshot (3)](https://github.com/divyaniurkude/COVID-19-WEBSITE/blob/main/Screenshot%20(421).png)
+![Screenshot (3)](https://github.com/divyaniurkude/weather/blob/main/Screenshot%20(3).png)
 
 
 # Output - 4
 
-![Screenshot (4)](https://github.com/divyaniurkude/COVID-19-WEBSITE/blob/main/Screenshot%20(422).png)
+![Screenshot (4)](https://github.com/divyaniurkude/weather/blob/main/Screenshot%20(4).png)
 
 
 
